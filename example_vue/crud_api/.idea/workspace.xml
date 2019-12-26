@@ -1,17 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8452ee61-8e8c-4061-b02b-f00fc785d425" name="Default Changelist" comment="" />
+    <list default="true" id="8452ee61-8e8c-4061-b02b-f00fc785d425" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Http/Kernel.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/app/Http/Kernel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/blog/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/blog/routes/api.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_vue/build/webpack.dev.conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/../example_vue/build/webpack.dev.conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../example_vue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../example_vue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../example_vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example_vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/../example_vue/src/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/blog/composer.json</pharConfigPath>
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -100,6 +116,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1VQJ767IvpvB8NyoQtvYPN08iM8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -107,6 +124,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -134,6 +152,7 @@
       <updated>1577179214809</updated>
       <workItem from="1577179217583" duration="2453000" />
       <workItem from="1577238575223" duration="2635000" />
+      <workItem from="1577249064940" duration="11179000" />
     </task>
     <servers />
   </component>
@@ -149,9 +168,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="839" y="869" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577181993043" />
-    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577238643693">
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1577249065346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577238643693" />
+    <state x="661" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577249065346" />
+    <state x="1146" y="262" key="search.everywhere.popup" timestamp="1577249072425">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1146" y="262" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577249072425" />
   </component>
 </project>
